@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/main/kotlin/com/example/Application.kt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/kotlin/com/example/data/Todo.kt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/kotlin/com/example/data/User.kt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/kotlin/com/example/data/table/TodoTable.kt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/kotlin/com/example/data/table/UserTable.kt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/kotlin/com/example/plugins/Routing.kt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/kotlin/com/example/plugins/Security.kt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/kotlin/com/example/plugins/Serialization.kt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/kotlin/com/example/repository/DataBaseFactory.kt" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
